@@ -1,4 +1,5 @@
-# Название проекта
+# Задача компьютерного зрения
+## Название проекта
 Распознавание изображений двух групп: рыбы и цветы
 ![alt text](https://github.com/AnastasiyaZakhar/Classification/blob/main/img/Main_picture.png)
 
